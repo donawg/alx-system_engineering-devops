@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pamv | sort; echo "\n"
+ls -pamv | sort
